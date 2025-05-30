@@ -1,2 +1,2 @@
-# Guren Labs
+# Gurren Labs
 Independent market intelligence research.
