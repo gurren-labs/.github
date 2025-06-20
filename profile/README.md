@@ -1,2 +1,2 @@
 # Gurren Labs
-Independent market intelligence research.
+Knowledge-based market intelligence research firm.
